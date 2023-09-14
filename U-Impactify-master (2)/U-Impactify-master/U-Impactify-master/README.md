@@ -161,23 +161,7 @@ This is an example of how to list things you need to use the software and how to
    nodemon # or you can do npm start
    ```
 
-<br/>
 
-<!-- ACKNOWLEDGEMENTS -->
-
-## Acknowledgements
-
-#### Made with :heart: by Team :b:oundless
-
-* [Clara Chick](https://github.com/KohinaTheCat)
-* [Navinn Ravindaran](https://github.com/navn-r)
-* [Samyak Mehta](https://github.com/Samyakk123)
-* [Winson Yuan](https://github.com/booooper)
-* [Divyam Patel](https://github.com/divyam-p)
-* [Brian Kim](https://github.com/briankkim99)
-* [Aryan Patel](https://github.com/AryPat)
-
-<br/>
 
 ## Memorable Quotes 
 
